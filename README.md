@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Basboy0422
-- 👀 I’m interested in ...
+- 👀 I’m interested in building real projects with senior developers.
 - 🌱 I’m currently learning Git on progate
 - 💞️ I’m looking to collaborate on working on frontend project 
 - 📫 How to reach me abdulbasitbusari0422@gmail.com
